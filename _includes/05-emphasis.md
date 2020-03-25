@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+I can do some programming in **Python** or if needed in __C__
+I prefer to use a _for-loop_ instead of a *while-loop*
+

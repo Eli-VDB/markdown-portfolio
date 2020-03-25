@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+# Image of my Teeth
+
+![This is a random photo from the internet](https://octodex.github.com/images/yaktocat.png)
